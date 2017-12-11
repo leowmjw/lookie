@@ -1,5 +1,4 @@
-# lookie [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](./LICENSE)
-[![GoDoc](http://godoc.org/github.com/engineersmy/lookie?status.svg)](https://godoc.org/github.com/engineersmy/lookie)
+# lookie [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](./LICENSE)[![GoDoc](http://godoc.org/github.com/engineersmy/lookie?status.svg)](https://godoc.org/github.com/engineersmy/lookie)
 
 The location directory service.
 
