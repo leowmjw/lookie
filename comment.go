@@ -1,4 +1,4 @@
-package main
+package lookie
 
 // Comment
 // This is a stub for #16
