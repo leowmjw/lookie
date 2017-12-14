@@ -14,15 +14,27 @@ Slack's new user guide (https://get.slack.help/hc/en-us/articles/218080037-Getti
 
 ## Github
 
-https://git-scm.com/downloads
+The prerequisite is to learn Git, the version control system required.
 
-https://try.github.io/levels/1/challenges/1
+For more information about Git, read [here](https://en.wikipedia.org/wiki/Git).
 
-https://www.git-tower.com/blog/posts/git-cheat-sheet
+For more information about Version Control System, read [here](https://en.wikipedia.org/wiki/Version_control).
 
-https://guides.github.com/activities/hello-world/
+Once you think you're ready, download git for your platform [here](https://git-scm.com/downloads)
 
-https://help.github.com/categories/collaborating-with-issues-and-pull-requests/
+To let you get started with some of the git functionality, you have these resources.
+
+I recommend you to try these out.
+
+* https://try.github.io/levels/1/challenges/1
+* https://guides.github.com/activities/hello-world/
+* https://www.git-tower.com/blog/posts/git-cheat-sheet
+
+Next, get yourself a Github account, because that is how you're going to work with the project.
+
+https://guides.github.com/
+
+If you like to read, try [this](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/)
 
 
 ## Golang 
